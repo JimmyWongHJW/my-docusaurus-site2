@@ -1,5 +1,5 @@
 ---
-sidebar_label: '开始使用!'
+sidebar_label: '帮助中心'
 sidebar_position: 1
 ---
 
@@ -24,6 +24,6 @@ sidebar_position: 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3OTA4MDczLC0zMTQwMjA3NTUsLTI5OD
+eyJoaXN0b3J5IjpbNTE5MzA2ODMxLC0zMTQwMjA3NTUsLTI5OD
 c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
