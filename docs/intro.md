@@ -19,30 +19,11 @@ sidebar_position: 1
 ### 常见问题Q&A
 
  - 已支付成功，返回网站显示未支付
+ - 下单邮箱没有收到卡密信息
  - 
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzU4NDM3LC0zMTQwMjA3NTUsLTI5OD
+eyJoaXN0b3J5IjpbNzY3OTA4MDczLC0zMTQwMjA3NTUsLTI5OD
 c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
