@@ -32,7 +32,7 @@ module.exports = {
         },
         {to: '/blog', label: '文章Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://duoduo.uno',
           label: '🛒多多有货',
           position: 'right',
         },
@@ -42,11 +42,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '服务',
           items: [
             {
-              label: 'Tutorial',
+              label: '帮助中心',
               to: '/docs/intro',
+            },
+            {
+              label: '多多有货（商城）',
+              href: 'https://duoduo.uno',
             },
           ],
         },
@@ -81,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DuoDuo. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
