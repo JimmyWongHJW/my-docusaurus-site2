@@ -14,10 +14,12 @@ sidebar_position: 1
 ### 网站常用操作说明
  - 购买下单
  - 查询订单
+ - 售后服务
+
+### 常见问题Q&A
+
+ - 已支付成功，返回网站显示未支付
  - 
-
-常见问题Q&A
-
 
 ## Generate a new site
 
@@ -41,6 +43,6 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTAwMzc5MywtMzE0MDIwNzU1LC0yOT
-g3NjE1NDMsNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbMTYzMzU4NDM3LC0zMTQwMjA3NTUsLTI5OD
+c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
