@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'DUODUO 资源网',
-  tagline: 'Dinosaurs are cool',
+  tagline: '海外跨境必备💪',
   url: 'https://wiki.duoduo.hk.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
