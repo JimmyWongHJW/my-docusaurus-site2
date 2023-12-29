@@ -1,10 +1,10 @@
 ---
-sidebar_label: '查询下单'
-sidebar_position: 1
+sidebar_label: '查询订单'
+sidebar_position: 2
 ---
 
-# 购买下单
+# 查询订单
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1Nzk1NDY5XX0=
+eyJoaXN0b3J5IjpbMTc0NjMwNTcxNl19
 -->
