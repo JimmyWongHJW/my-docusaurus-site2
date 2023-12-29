@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 这里能解决你能遇到99.9%的问题
 
-Let's discover **Docusaurus in less than 5 minutes**.
+在这里您可以尝试我们提供的实用信息，以帮助您更快的解决问题！
 
 |  |  |
 |--|--|
@@ -40,5 +40,6 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2Nz
+Q5ODYzMF19
 -->
