@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## 【多多有货】网站操作
 
 Get started by **creating a new site**.
 
@@ -35,5 +35,5 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyNzM2NjU0LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbLTU1MzU3MTMyMSwxMzY3NDk4NjMwXX0=
 -->
