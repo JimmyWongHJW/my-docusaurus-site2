@@ -27,10 +27,10 @@ sidebar_position: 1
 ### 商品说明
 ### 使用教程
 
-### 常见问题
+### 疑难杂症
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI1NTYyNzAsLTMxNDAyMDc1NSwtMj
-k4NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbMTc1MzkzNDY3NSwtMzE0MDIwNzU1LC0yOT
+g3NjE1NDMsNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
 -->
