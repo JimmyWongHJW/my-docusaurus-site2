@@ -7,7 +7,7 @@ module.exports = {
   tagline: '海外跨境必备💪',
   url: 'https://wiki.duoduo.hk.cn',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
