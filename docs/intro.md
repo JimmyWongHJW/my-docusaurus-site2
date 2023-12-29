@@ -15,8 +15,8 @@ sidebar_position: 1
 ## 【多多有货】网站操作
 
 下单网站常用操作说明
+常见问题Q&A
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
 
 ## Generate a new site
 
@@ -40,6 +40,6 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0MDMxNDAsLTI5ODc2MTU0Myw0OD
-c0MDc4MzUsMTM2NzQ5ODYzMF19
+eyJoaXN0b3J5IjpbLTMxNDAyMDc1NSwtMjk4NzYxNTQzLDQ4Nz
+QwNzgzNSwxMzY3NDk4NjMwXX0=
 -->
