@@ -27,10 +27,14 @@ sidebar_position: 1
 ### 商品说明
 ### 使用教程
 
+ - 登录使用、跳过双重认证等
+ - 修改ID密码、密保等信息
+ - 
+
 ### 疑难杂症
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzkzNDY3NSwtMzE0MDIwNzU1LC0yOT
-g3NjE1NDMsNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbLTgyMTY4ODg1LC0zMTQwMjA3NTUsLTI5OD
+c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
