@@ -7,16 +7,14 @@ sidebar_position: 1
 
 在这里您可以尝试我们提供的实用信息，以帮助您更快的解决问题！
 
-|  |  |
-|--|--|
-|  |  |
 
 
 ## 【多多有货】网站服务
 
-## 标题
-
 网站常用操作说明
+
+ - 下单
+ - 查询订单
 
 常见问题Q&A
 
@@ -43,6 +41,6 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzU3MDkxLC0zMTQwMjA3NTUsLTI5OD
-c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
+eyJoaXN0b3J5IjpbLTEwMTg5ODkwNzgsLTMxNDAyMDc1NSwtMj
+k4NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
 -->
