@@ -1,0 +1,9 @@
+{
+  "label": "常见问题",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "mall-help/index"
+  }
+}
+
