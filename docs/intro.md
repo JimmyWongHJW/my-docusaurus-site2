@@ -33,10 +33,12 @@ sidebar_position: 1
  - 【密码错误】
  - 更新软件提示【被禁用】
  - 【需要解锁】
+ - 【此ID无效或不受支持】
+ - 【未激活】或【停用】
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM5MDIxNzQsLTgyMTY4ODg1LC0zMT
-QwMjA3NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYz
-MF19
+eyJoaXN0b3J5IjpbMjA5OTEyNjIwMywtODIxNjg4ODUsLTMxND
+AyMDc1NSwtMjk4NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMw
+XX0=
 -->
