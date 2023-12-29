@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'DUODUO 知识库',
+  title: 'DUODUO 资源网',
   tagline: 'Dinosaurs are cool',
   url: 'https://wiki.duoduo.hk.cn',
   baseUrl: '/',
@@ -18,7 +18,7 @@ module.exports = {
   },
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: '多多资源网',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -28,12 +28,12 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: '知识库',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '文章Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          label: '🛒多多有货',
           position: 'right',
         },
       ],
