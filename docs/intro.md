@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 开始使用
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
@@ -33,3 +33,6 @@ npx docusaurus start
 Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM2NzQ5ODYzMF19
+-->
