@@ -26,15 +26,13 @@ sidebar_position: 1
 ## Apple ID
 ### 商品说明
 ### 使用教程
-
- - 登录使用、跳过双重认证等
+ - 正确的登录使用方式+跳过双重认证
  - 修改ID密码、密保等信息
- - 
-
 ### 疑难杂症
-
+ - 这里是列表文本
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTY4ODg1LC0zMTQwMjA3NTUsLTI5OD
-c2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
+eyJoaXN0b3J5IjpbLTIxMTA0NzE2NjMsLTgyMTY4ODg1LC0zMT
+QwMjA3NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYz
+MF19
 -->
