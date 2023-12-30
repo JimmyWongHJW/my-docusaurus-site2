@@ -1,7 +1,6 @@
 {
   "label": "网站常用操作说明",
   "position": 1,
-  "collapsible": true,
   "collapsed": false,
   "link": {
     "type": "generated-index",
