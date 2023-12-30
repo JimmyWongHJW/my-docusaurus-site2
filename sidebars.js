@@ -47,7 +47,6 @@ module.exports = {
 			},
 		  ],
 	  },
-	  ],
         {
           type: 'category',
           label: '常见问题',
@@ -56,6 +55,7 @@ module.exports = {
 		    id: 'tutorial-basics/mall-help/intro',
           },
 		},
+	  ],
 	},
     {
       type: 'category',
