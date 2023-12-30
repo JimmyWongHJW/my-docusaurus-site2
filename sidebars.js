@@ -28,6 +28,7 @@ module.exports = {
               type: 'doc',
               id: 'tutorial-basics/mall-intro/purchase-order',
               },
+			},
 		    {
               type: 'category',
               label: '查询订单',
@@ -35,6 +36,7 @@ module.exports = {
               type: 'doc',
               id: 'tutorial-basics/mall-intro/order-search',
               },
+			},
 	        {
               type: 'category',
 		      label: '售后服务',
@@ -42,7 +44,9 @@ module.exports = {
               type: 'doc',
               id: 'tutorial-basics/mall-intro/order-search',
               },
+			},
 		  ],
+	  ],	
 		},
         {
           type: 'category',
@@ -50,7 +54,9 @@ module.exports = {
           link: {
             type: 'doc',
 		    id: 'tutorial-basics/mall-help/intro',
-        },
+          },
+		},
+	},
     {
       type: 'category',
       label: '🍎Apple ID',
