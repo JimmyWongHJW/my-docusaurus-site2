@@ -46,8 +46,8 @@ module.exports = {
               },
 			},
 		  ],
-	  ],	
-		},
+	  },
+	  ],
         {
           type: 'category',
           label: '常见问题',
