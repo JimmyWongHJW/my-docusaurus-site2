@@ -1,10 +1,5 @@
 position: 1 # float position is supported
 label: '疑难杂症'
-collapsible: true # make the category collapsible
-collapsed: false # keep the category open by default
-className: red
 link:
   type: generated-index
   title: 常见问题
-customProps:
-  description: This description can be used in the swizzled DocCard
