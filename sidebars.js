@@ -4,7 +4,7 @@ module.exports = {
     {
       type: 'category',
       label: '【多多有货】网站服务',
-      items: ['intro'],
+      items: ['tutorial-basics/mall-intro/purchase-order.md'],
     },
   ],
    
