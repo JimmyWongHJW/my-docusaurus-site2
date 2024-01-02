@@ -29,15 +29,15 @@ sidebar_position: 1
  - [正确的登录使用方式+跳过双重认证](/tutorial-appleid/tutorial.md)
  - [修改ID密码、密保等信息](/tutorial-appleid/tutorial.md)
 ### 疑难杂症
- - 【无法登陆】或一直转圈
- - 【密码错误】
- - *更新软件时提示【被禁用】
- - 【需要解锁】
- - 【此ID无效或不受支持】
- - 【未激活】或【停用】
+ - [【无法登陆】或一直转圈](/tutorial-appleid/question.md)
+ - [【密码错误】](/tutorial-appleid/question.md)
+ - [*更新软件时提示【被禁用】](/tutorial-appleid/question.md)
+ - [【需要解锁】](/tutorial-appleid/question.md)
+ - [【此ID无效或不受支持】](/tutorial-appleid/question.md)
+ - [【未激活】或【停用】](/tutorial-appleid/question.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NjE4MzUzLC0yMDcwNDc4OTksLTE3MD
-Y3MzMyMzEsMTQ0MTg4OTU5NiwtODIxNjg4ODUsLTMxNDAyMDc1
-NSwtMjk4NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbLTIyNDA0NzYxMSwtMjA3MDQ3ODk5LC0xNz
+A2NzMzMjMxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC0zMTQwMjA3
+NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
