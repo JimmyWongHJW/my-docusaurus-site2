@@ -18,16 +18,16 @@ sidebar_position: 1
 
 ### 常见问题
 
- - 已支付成功，返回网站显示未支付
- - 下单邮箱没有收到卡密信息
+ - [已支付成功，返回网站显示未支付](/tutorial-basics/mall-help/intro.md)
+ - [下单邮箱没有收到卡密信息](/tutorial-basics/mall-help/intro.md)
  - 
 
 
 ## 🍎Apple ID
 ### 商品说明
 ### 使用教程
- - 正确的登录使用方式+跳过双重认证
- - 修改ID密码、密保等信息
+ - [正确的登录使用方式+跳过双重认证](/tutorial-appleid/tutorial.md)
+ - [修改ID密码、密保等信息](/tutorial-appleid/tutorial.md)
 ### 疑难杂症
  - 【无法登陆】或一直转圈
  - 【密码错误】
@@ -37,7 +37,7 @@ sidebar_position: 1
  - 【未激活】或【停用】
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA0Nzg5OSwtMTcwNjczMzIzMSwxND
-QxODg5NTk2LC04MjE2ODg4NSwtMzE0MDIwNzU1LC0yOTg3NjE1
-NDMsNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbNjA1NjE4MzUzLC0yMDcwNDc4OTksLTE3MD
+Y3MzMyMzEsMTQ0MTg4OTU5NiwtODIxNjg4ODUsLTMxNDAyMDc1
+NSwtMjk4NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
 -->
