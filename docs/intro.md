@@ -12,9 +12,9 @@ sidebar_position: 1
 ## 【多多有货】网站服务
 
 ### 网站常用操作说明
- - [购买下单](/tutorial-basics/mall-intro/purchase-order)
- - 查询订单
- - 售后服务
+ - [购买下单](/tutorial-basics/mall-intro/purchase-order.md)
+ - [查询订单](/tutorial-basics/mall-intro/order-search.md)
+ - [售后服务](/docs/tutorial-basics/mall-intro/service)
 
 ### 常见问题
 
@@ -37,7 +37,7 @@ sidebar_position: 1
  - 【未激活】或【停用】
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY3MzMyMzEsMTQ0MTg4OTU5NiwtOD
-IxNjg4ODUsLTMxNDAyMDc1NSwtMjk4NzYxNTQzLDQ4NzQwNzgz
-NSwxMzY3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbLTIwNzA0Nzg5OSwtMTcwNjczMzIzMSwxND
+QxODg5NTk2LC04MjE2ODg4NSwtMzE0MDIwNzU1LC0yOTg3NjE1
+NDMsNDg3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
 -->
