@@ -7,7 +7,6 @@ module.exports = {
 	  link: {
         type: 'generated-index',
 		title: '网站操作指引',
-		keywords: ['tutorial-basics'],
       },
       items: ['tutorial-basics/mall-intro/purchase-order'],
     },
