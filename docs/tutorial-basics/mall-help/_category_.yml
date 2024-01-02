@@ -1,2 +1,5 @@
-position: 1 # float position is supported
+position: 2 # float position is supported
 label: '疑难杂症'
+link:
+  type: doc
+  id: "intro"
