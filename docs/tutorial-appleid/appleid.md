@@ -15,7 +15,10 @@ sidebar_position: 1
  - #### 下载号
 支持登陆APP Store，下载对应国家内免费的应用
 - #### iCloud号
-在下载号的基础上，已激活iCloud功能。
+在下载号的基础上，已激活iCloud功能。此类账号因涉及太多灰色产业，本店售卖id如无单独标注，均不可登录iCloud。
+- #### 成品号
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjQ2NjE1MiwtMTA5NjA3ODYxOF19
+eyJoaXN0b3J5IjpbLTIxMDY1MDM3NDIsLTEwOTYwNzg2MThdfQ
+==
 -->
