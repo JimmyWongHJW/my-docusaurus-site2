@@ -17,8 +17,7 @@ sidebar_position: 1
 - #### iCloud号
 在下载号的基础上，已激活iCloud功能。此类账号因涉及太多灰色产业，本店售卖id如无单独标注，均不可登录iCloud。
 - #### 成品号
-
+在下载号的基础上，已完成购买指定的APP软件，登录后可直接下载。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY1MDM3NDIsLTEwOTYwNzg2MThdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNjk2MDM0MywtMTA5NjA3ODYxOF19
 -->
