@@ -24,7 +24,9 @@ sidebar_position: 2
   
 :::
 
-### 
+ 1. ### 读懂卡密信息
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDgyOTUyMSwxMjExODkxMjExXX0=
+eyJoaXN0b3J5IjpbLTExNzc5Mzc2MzIsMTIxMTg5MTIxMV19
 -->
