@@ -11,7 +11,7 @@ sidebar_position: 1
  - 登陆iCloud并且享受相关服务
  - 享受其他苹果服务等
  
- ### Apple ID 常见分类与介绍
+### Apple ID 常见分类与介绍
  - #### 下载号
 支持登陆APP Store，下载对应国家内免费的应用
 - #### iCloud号
@@ -19,5 +19,6 @@ sidebar_position: 1
 - #### 成品号
 在下载号的基础上，已完成购买指定的APP软件，登录后可直接下载。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk2MDM0MywtMTA5NjA3ODYxOF19
+eyJoaXN0b3J5IjpbMTIxMzQwNTgyMSwtMjA2OTYwMzQzLC0xMD
+k2MDc4NjE4XX0=
 -->
