@@ -5,14 +5,18 @@ sidebar_position: 1
 
 # 购买下单
 
+![1](https://file.duoduo.hk.cn/imgs/docs/takeorder.png)
+
 :::tip  
   
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).  
+
+ - 下单邮箱和查询密码自行填写，用于查询卡密信息，填写后请牢记。
+ - 
+
   
 :::
-![1](https://file.duoduo.hk.cn/imgs/docs/takeorder.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDI4MTQzLC04NzU4NTk1NDksLTEzMD
-gzMjg0NCwtMTY5NzgzOTgxLC0xNjk5NDg3MDM2LC0yMjg2MzYy
-MDksLTYwMTUwODY4OV19
+eyJoaXN0b3J5IjpbMTUwNjYwOTY2MCwtODc1ODU5NTQ5LC0xMz
+A4MzI4NDQsLTE2OTc4Mzk4MSwtMTY5OTQ4NzAzNiwtMjI4NjM2
+MjA5LC02MDE1MDg2ODldfQ==
 -->
