@@ -5,9 +5,10 @@ sidebar_position: 1
 
 # 购买下单
 
-![1](https://wiki.duoduo.hk.cn/imgs/2024-01-09/ssAJKICi0YKW2sGU.png)
 
+![1](https://file.duoduo.hk.cn/imgs/docs/takeorder.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgzMjg0NCwtMTY5NzgzOTgxLC0xNj
-k5NDg3MDM2LC0yMjg2MzYyMDksLTYwMTUwODY4OV19
+eyJoaXN0b3J5IjpbLTg3NTg1OTU0OSwtMTMwODMyODQ0LC0xNj
+k3ODM5ODEsLTE2OTk0ODcwMzYsLTIyODYzNjIwOSwtNjAxNTA4
+Njg5XX0=
 -->
