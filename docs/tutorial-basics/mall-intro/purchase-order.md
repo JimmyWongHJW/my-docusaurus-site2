@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 购买下单
 
-![1](https://file.duoduo.hk.cn/imgs/docs/takeorder.png)
+![](https://file.duoduo.hk.cn/imgs/docs/takeorder.webp)
 
 :::tip  
   
@@ -17,7 +17,7 @@ sidebar_position: 1
   
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUzNDQ5NzMsLTg3NTg1OTU0OSwtMT
-MwODMyODQ0LC0xNjk3ODM5ODEsLTE2OTk0ODcwMzYsLTIyODYz
-NjIwOSwtNjAxNTA4Njg5XX0=
+eyJoaXN0b3J5IjpbLTE2NjcxMjA0NjcsLTE3NDUzNDQ5NzMsLT
+g3NTg1OTU0OSwtMTMwODMyODQ0LC0xNjk3ODM5ODEsLTE2OTk0
+ODcwMzYsLTIyODYzNjIwOSwtNjAxNTA4Njg5XX0=
 -->
