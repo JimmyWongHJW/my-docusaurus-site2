@@ -24,8 +24,8 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-.a {
-  text-decoration: none;
+.alert a {
+    text-decoration: none
 }
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
