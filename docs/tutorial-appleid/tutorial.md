@@ -26,7 +26,8 @@ sidebar_position: 2
 
  1. ### 读懂卡密信息
  
-
+![](https://file.duoduo.hk.cn/imgs/docs/%E8%AF%BB%E6%87%82%E5%8D%A1%E5%AF%86.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc5Mzc2MzIsMTIxMTg5MTIxMV19
+eyJoaXN0b3J5IjpbLTIxMTM2ODM3NjAsLTExNzc5Mzc2MzIsMT
+IxMTg5MTIxMV19
 -->
