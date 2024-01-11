@@ -13,11 +13,9 @@ sidebar_position: 3
 
  - 用户买错
 
-用户买错
-
  - 用户不会操作，但产品质量过关
 
-• 其他非产品问题
+ - 其他非产品问题
 
 ### 【售后政策】
 
@@ -33,5 +31,5 @@ sidebar_position: 3
    
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgyMzM5MDksLTI4MTg1NTAxXX0=
+eyJoaXN0b3J5IjpbMTA0OTAwNDY1MiwtMjgxODU1MDFdfQ==
 -->
