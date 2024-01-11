@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # 售后服务
 
-**【退款政策】**
+### 【退款政策】
 
 若产品有质量问题我们会全额退款
 
@@ -17,11 +17,11 @@ sidebar_position: 3
 
 • 其他非产品问题
 
-【售后政策】
+### 【售后政策】
 
 所有商品根据商品规定的售后时间和范围进行，售后仅保证帐号正常使用，商店有义务保证商品内容符合商品描述，果书商店没有义务承诺未提及的内容。所有商品购买回去请第一时间修改密码密保信息
 
 有质量问题请第一时间向客服反馈，以免耽误了售后时间
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTQ3NDgwMiwtMjgxODU1MDFdfQ==
+eyJoaXN0b3J5IjpbLTMwODMwMTk2MCwtMjgxODU1MDFdfQ==
 -->
