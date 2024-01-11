@@ -20,13 +20,14 @@ sidebar_position: 2
   
 :::
 
-主动查询方法有以下几种：
+### 主动查询方法有以下几种：
 
  1. 通过“订单号”查询
  2. 通过“下单邮箱”查询
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODgxNTg2NCwtNTM0MjE4MzkwLC0xMz
-g4NzkxMTg2LC02MDk1Mzk0ODUsOTAxMTY2MDUwLC0xNzE2NjA0
-NzI0LC01NDQxOTI1NTgsMTc0NjMwNTcxNl19
+eyJoaXN0b3J5IjpbNTM2NjU3MjIxLC00Mjg4MTU4NjQsLTUzND
+IxODM5MCwtMTM4ODc5MTE4NiwtNjA5NTM5NDg1LDkwMTE2NjA1
+MCwtMTcxNjYwNDcyNCwtNTQ0MTkyNTU4LDE3NDYzMDU3MTZdfQ
+==
 -->
