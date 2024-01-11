@@ -29,8 +29,12 @@ sidebar_position: 2
 ![](https://file.duoduo.hk.cn/imgs/docs/%E8%AF%BB%E6%87%82%E5%8D%A1%E5%AF%86.webp)
 
 通常收到的卡密信息格式如图示，不同时期不同批次略有差异，但是大差不差。
-在您自己的卡密中，读出密码+密码
+在您自己的卡密中，读出账号+密码+密保，即可进行登录和修改信息等操作。
+
+ 2. ### 登录商店AppStore
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NzY4MjIzLC0yMTEzNjgzNzYwLC0xMT
-c3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbMTE5NDkyNTczMSwtMjExMzY4Mzc2MCwtMT
+E3NzkzNzYzMiwxMjExODkxMjExXX0=
 -->
