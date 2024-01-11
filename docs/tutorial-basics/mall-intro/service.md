@@ -11,9 +11,11 @@ sidebar_position: 3
 
 以下情况不接受退款：
 
-• 用户买错
+ - 用户买错
 
-• 用户不会操作，但产品质量过关
+用户买错
+
+ - 用户不会操作，但产品质量过关
 
 • 其他非产品问题
 
@@ -26,10 +28,10 @@ sidebar_position: 3
 :::tip  
   
 
- - 联系客服时请务必按
+ - 联系客服时请务必按照机器人的提示，提供相关信息或点击对应选项，否则系统不会接入处理。
    
    
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTU0Nzc0OSwtMjgxODU1MDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MTgyMzM5MDksLTI4MTg1NTAxXX0=
 -->
