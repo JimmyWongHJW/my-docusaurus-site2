@@ -22,10 +22,11 @@ sidebar_position: 2
 
 主动查询方法有以下几种：
 
- 1. 这里是列表文本
+ 1. 通过“订单号”查询
+ 2. 通过“下单邮箱”查询
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTg0NTAwOSwtNTM0MjE4MzkwLC0xMz
+eyJoaXN0b3J5IjpbLTQyODgxNTg2NCwtNTM0MjE4MzkwLC0xMz
 g4NzkxMTg2LC02MDk1Mzk0ODUsOTAxMTY2MDUwLC0xNzE2NjA0
 NzI0LC01NDQxOTI1NTgsMTc0NjMwNTcxNl19
 -->
