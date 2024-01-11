@@ -12,11 +12,20 @@ sidebar_position: 2
 
 
 ### 如何查单？
-卡密会发送到您的邮箱，但是由于不同服务商的拦截规则问题，不保证100%能收到邮件。建议您需要到网站自主查询
+:::tip  
+  
+
+卡密会发送到您的邮箱，但是由于不同服务商的拦截规则问题，不保证100%能收到邮件。建议您到网站自主查询。
+
+  
+:::
 
 主动查询方法有以下几种：
+
+ 1. 这里是列表文本
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTA2NTAzNiwtNTM0MjE4MzkwLC0xMz
+eyJoaXN0b3J5IjpbLTQ3MTg0NTAwOSwtNTM0MjE4MzkwLC0xMz
 g4NzkxMTg2LC02MDk1Mzk0ODUsOTAxMTY2MDUwLC0xNzE2NjA0
 NzI0LC01NDQxOTI1NTgsMTc0NjMwNTcxNl19
 -->
