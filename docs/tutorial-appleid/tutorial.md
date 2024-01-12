@@ -19,8 +19,8 @@ sidebar_position: 2
 
 请注意，如果您是更新软件！
 
-那使用的是帐号原来的ID，请卸载以后重新安装，注意软件数据保存！
-苹果下载的APP会绑定ID，用哪个ID下载，就需要用哪个ID更新。
+如果是使用以前的ID下载，请卸载以后重新安装，注意软件数据保存！
+苹果下载的APP会关联ID，用哪个ID下载，就只能用哪个ID更新。
   
 :::
 
@@ -35,6 +35,6 @@ sidebar_position: 2
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDkyNTczMSwtMjExMzY4Mzc2MCwtMT
-E3NzkzNzYzMiwxMjExODkxMjExXX0=
+eyJoaXN0b3J5IjpbLTE1MTY2ODQxNjMsMTE5NDkyNTczMSwtMj
+ExMzY4Mzc2MCwtMTE3NzkzNzYzMiwxMjExODkxMjExXX0=
 -->
