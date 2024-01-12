@@ -5,11 +5,11 @@ sidebar_position: 2
 
 # 🍎Apple ID 使用教程
 
-:::tip  
+
+
+> 由于系统的迭代更新和时间差异，教程和实际可能会有些出入，但是大同小异，请根据实际界面进行操作！
+
   
-由于系统的迭代更新和时间差异，教程和实际可能会有些出入，但是大同小异，请根据实际界面进行操作！
-  
-:::
 
 :::warning  
   
@@ -37,7 +37,7 @@ sidebar_position: 2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTI3MDE1LC0xNTE2Njg0MTYzLDExOT
-Q5MjU3MzEsLTIxMTM2ODM3NjAsLTExNzc5Mzc2MzIsMTIxMTg5
-MTIxMV19
+eyJoaXN0b3J5IjpbLTM4NDA4NTgzMCwtMTUxNjY4NDE2MywxMT
+k0OTI1NzMxLC0yMTEzNjgzNzYwLC0xMTc3OTM3NjMyLDEyMTE4
+OTEyMTFdfQ==
 -->
