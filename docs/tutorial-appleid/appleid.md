@@ -22,12 +22,13 @@ sidebar_position: 1
 :::info  
   
 
- - #### 不论你选择哪种账号，均为买断制，购买后就完全属于你，你自己对账号负责，你可以且必须按教程修改全部资料，避免被盗扯皮
- - 
+ - 不论你选择哪种账号，均为买断制，购买后就完全属于你，你自己对账号负责，你可以且必须按教程修改全部资料，避免被盗扯皮
+ - 不论你选择哪种账号，本站仅出售苹果ID，至于你用这个ID下载什么App，下载的App如何使用，本站不做任何服务和教学；好比你用这个ID下载炒股软件，难道我们还得教你如何炒股吗？
+ - 科普：苹果账号 = 苹果ID = AppleID
 
   
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDU0OTI3MywxMjEzNDA1ODIxLC0yMD
-Y5NjAzNDMsLTEwOTYwNzg2MThdfQ==
+eyJoaXN0b3J5IjpbNjUwNDUzNjE5LDEyMTM0MDU4MjEsLTIwNj
+k2MDM0MywtMTA5NjA3ODYxOF19
 -->
