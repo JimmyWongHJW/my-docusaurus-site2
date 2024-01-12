@@ -34,8 +34,10 @@ sidebar_position: 2
  2. ### 登录商店AppStore
  
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore.webp)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMzk0MzY1LC0xNTE2Njg0MTYzLDExOT
+eyJoaXN0b3J5IjpbLTc5MTI3MDE1LC0xNTE2Njg0MTYzLDExOT
 Q5MjU3MzEsLTIxMTM2ODM3NjAsLTExNzc5Mzc2MzIsMTIxMTg5
 MTIxMV19
 -->
