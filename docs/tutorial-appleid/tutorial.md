@@ -11,7 +11,7 @@ sidebar_position: 2
 
   
 
-:::warning  
+:::info
   
 请注意，如果您是更新软件！
 
@@ -41,7 +41,7 @@ sidebar_position: 2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5MjczODAsLTE1MTY2ODQxNjMsMT
-E5NDkyNTczMSwtMjExMzY4Mzc2MCwtMTE3NzkzNzYzMiwxMjEx
-ODkxMjExXX0=
+eyJoaXN0b3J5IjpbNDc3NDMwOTI4LC0yMDg0OTI3MzgwLC0xNT
+E2Njg0MTYzLDExOTQ5MjU3MzEsLTIxMTM2ODM3NjAsLTExNzc5
+Mzc2MzIsMTIxMTg5MTIxMV19
 -->
