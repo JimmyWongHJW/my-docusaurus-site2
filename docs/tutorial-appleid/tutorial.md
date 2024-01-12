@@ -35,9 +35,13 @@ sidebar_position: 2
  
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore.webp)
 
-本站账号默认禁止登录iCloud
+
+
+> **本店账号默认禁止登录iCloud，请勿在【设置】里面登录**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkxNjAyMywtMTUxNjY4NDE2MywxMT
-k0OTI1NzMxLC0yMTEzNjgzNzYwLC0xMTc3OTM3NjMyLDEyMTE4
-OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbLTIwODQ5MjczODAsLTE1MTY2ODQxNjMsMT
+E5NDkyNTczMSwtMjExMzY4Mzc2MCwtMTE3NzkzNzYzMiwxMjEx
+ODkxMjExXX0=
 -->
