@@ -11,7 +11,7 @@ sidebar_position: 2
 
   
 
-:::info
+:::caution
   
 请注意，如果您是更新软件！
 
@@ -48,7 +48,7 @@ sidebar_position: 2
 
 成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：[【疑难杂症】](/tutorial-appleid/question.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQwMDA5OSwxNjY0MTUyNTkxLC0zMj
+eyJoaXN0b3J5IjpbLTQwMTM2OTcxMCwxNjY0MTUyNTkxLC0zMj
 EyNjE0Nyw0Nzc0MzA5MjgsLTIwODQ5MjczODAsLTE1MTY2ODQx
 NjMsMTE5NDkyNTczMSwtMjExMzY4Mzc2MCwtMTE3NzkzNzYzMi
 wxMjExODkxMjExXX0=
