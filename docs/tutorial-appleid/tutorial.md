@@ -37,11 +37,12 @@ sidebar_position: 2
 
 
 
-> **本店账号默认禁止登录iCloud，请勿在【设置】里面登录**
+> **如无单独标注，本店账号默认禁止登录iCloud，请勿在【设置】里面登录**
 
 ![](https://file.duoduo.hk.cn/imgs/docs/login_guide.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4ND
-kyNzM4MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgz
-NzYwLC0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbMTY2NDE1MjU5MSwtMzIxMjYxNDcsNDc3ND
+MwOTI4LC0yMDg0OTI3MzgwLC0xNTE2Njg0MTYzLDExOTQ5MjU3
+MzEsLTIxMTM2ODM3NjAsLTExNzc5Mzc2MzIsMTIxMTg5MTIxMV
+19
 -->
