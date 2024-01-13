@@ -36,8 +36,12 @@ sidebar_position: 1
  - [【此ID无效或不受支持】](/tutorial-appleid/question.md)
  - [【未激活】或【停用】](/tutorial-appleid/question.md)
 
+
+
+![](https://file.duoduo.hk.cn/imgs/docs/%F0%9F%A5%B3%E8%81%9A%E4%BC%9A%E7%AC%91%E8%84%B8(240%20x%20240).gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDA0NzYxMSwtMjA3MDQ3ODk5LC0xNz
-A2NzMzMjMxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC0zMTQwMjA3
-NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
+eyJoaXN0b3J5IjpbLTE5NDg5NTAxMzYsLTIyNDA0NzYxMSwtMj
+A3MDQ3ODk5LC0xNzA2NzMzMjMxLDE0NDE4ODk1OTYsLTgyMTY4
+ODg1LC0zMTQwMjA3NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMT
+M2NzQ5ODYzMF19
 -->
