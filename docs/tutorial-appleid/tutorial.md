@@ -46,10 +46,10 @@ sidebar_position: 2
 
 #### 关于下载App可能出现的问题
 
-成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：
+成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：[【疑难杂症】](/tutorial-appleid/question.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MDE0MDQ2LDE2NjQxNTI1OTEsLTMyMT
-I2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4MCwtMTUxNjY4NDE2
-MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC0xMTc3OTM3NjMyLD
-EyMTE4OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbLTk2NTQwMDA5OSwxNjY0MTUyNTkxLC0zMj
+EyNjE0Nyw0Nzc0MzA5MjgsLTIwODQ5MjczODAsLTE1MTY2ODQx
+NjMsMTE5NDkyNTczMSwtMjExMzY4Mzc2MCwtMTE3NzkzNzYzMi
+wxMjExODkxMjExXX0=
 -->
