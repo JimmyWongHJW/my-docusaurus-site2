@@ -40,9 +40,16 @@ sidebar_position: 2
 > **如无单独标注，本店账号默认禁止登录iCloud，请勿在【设置】里面登录**
 
 ![](https://file.duoduo.hk.cn/imgs/docs/login_guide.webp)
+
+#### 关于绑定手机号说明
+如需要绑定手机号（推荐绑定），点击继续按钮，按页面提示输入手机号绑定即可，注意输入手机号页面选择中国+86（Tip：绑定任意国家手机号都不会改变苹果账号所属国家/地区），当然如果你有其他国家手机号，选择相应区号即可
+
+#### 关于下载App可能出现的问题
+
+成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDE1MjU5MSwtMzIxMjYxNDcsNDc3ND
-MwOTI4LC0yMDg0OTI3MzgwLC0xNTE2Njg0MTYzLDExOTQ5MjU3
-MzEsLTIxMTM2ODM3NjAsLTExNzc5Mzc2MzIsMTIxMTg5MTIxMV
-19
+eyJoaXN0b3J5IjpbNTM1MDE0MDQ2LDE2NjQxNTI1OTEsLTMyMT
+I2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4MCwtMTUxNjY4NDE2
+MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC0xMTc3OTM3NjMyLD
+EyMTE4OTEyMTFdfQ==
 -->
