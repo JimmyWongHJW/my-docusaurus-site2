@@ -38,10 +38,11 @@ sidebar_position: 1
 
 
 
-<center>![](https://file.duoduo.hk.cn/imgs/docs/%F0%9F%A5%B3%E8%81%9A%E4%BC%9A%E7%AC%91%E8%84%B8(240%20x%20240).gif)</center>
+
+<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" alt="welcome" width="120" height="120">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTkxMTk2NSwtMjI0MDQ3NjExLC0yMD
-cwNDc4OTksLTE3MDY3MzMyMzEsMTQ0MTg4OTU5NiwtODIxNjg4
-ODUsLTMxNDAyMDc1NSwtMjk4NzYxNTQzLDQ4NzQwNzgzNSwxMz
-Y3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbLTE5ODY3MDIzOCwtNzI5OTExOTY1LC0yMj
+QwNDc2MTEsLTIwNzA0Nzg5OSwtMTcwNjczMzIzMSwxNDQxODg5
+NTk2LC04MjE2ODg4NSwtMzE0MDIwNzU1LC0yOTg3NjE1NDMsND
+g3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
 -->
