@@ -24,7 +24,8 @@ sidebar_position: 3
     
 -   现在是流量：连接Wifi，或者用其他手机共享热点（可以多尝试几个手机的热点和多换几个Wifi），每次换网络记得重启下
 
-### 无法更新App及你的账户已在App Store和iTunes禁用解决方法
+### 登录后无法更新App或【你的账户已在App Store和iTunes禁用】
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTI5NzkyOCwxMDg4ODczMDY2XX0=
+eyJoaXN0b3J5IjpbLTEzMjE1MjIwMDcsMTA4ODg3MzA2Nl19
 -->
