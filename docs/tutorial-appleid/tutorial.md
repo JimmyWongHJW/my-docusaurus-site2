@@ -58,7 +58,7 @@ sidebar_position: 2
  - 打开苹果官方账号管理页面（这是苹果官网，打不开的自行检查你的网络）
    [https://appleid.apple.com](https://appleid.apple.com/)
 -  登陆购买的账号（强调一遍，是登陆你购买的账号改资料）
-![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_1.png)
+![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_1.webp)
 
 ### 关于密保问题
 各个账号密保问题答案并不相同，以购买收到的商品内容为准，收到的商品内容都没看完的不要跑来问密保答案是什么。
@@ -66,7 +66,7 @@ sidebar_position: 2
 ### 关于Apple ID安全提示
 
 登陆出现Apple ID安全提示，也就是提示绑定手机升级双重验证，如不想绑定手机就点【其他选项】，再点【不升级】跳过，如下图所示；当然，如果你要绑定手机（推荐，可以用中国手机号码），就点【继续】按钮 先改密保 在绑定手机， 绑定手机默认两周才会删除密保。
-![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_2.png)
+![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_2.webp)
 
 ### 更改邮箱（Apple ID） 
 
@@ -78,10 +78,10 @@ sidebar_position: 2
 -   邮箱更改成功后，此苹果账号就是用新邮箱登录，跟原来的旧邮箱没有任何关系了
     
 #### 注意：更改邮箱后，不要着急关闭浏览器或跳到下个步骤，看一眼Apple ID这里显示的是不是你的新邮箱，如果不是，说明你压根没有更改成功，从新更改；如果没有问题是新邮箱了，从此这个苹果ID就是用这个邮箱登陆了，跟原来的邮箱没有任何关系并且登陆会提示无效了！
-
+![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_3.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTQ5NzY0NCwtNDAxMzY5NzEwLDE2Nj
-QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
-MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
-0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbNzcxOTI0NTIyLC00MDEzNjk3MTAsMTY2ND
+E1MjU5MSwtMzIxMjYxNDcsNDc3NDMwOTI4LC0yMDg0OTI3Mzgw
+LC0xNTE2Njg0MTYzLDExOTQ5MjU3MzEsLTIxMTM2ODM3NjAsLT
+ExNzc5Mzc2MzIsMTIxMTg5MTIxMV19
 -->
