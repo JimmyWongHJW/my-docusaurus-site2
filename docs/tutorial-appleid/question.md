@@ -52,7 +52,16 @@ sidebar_position: 3
     
 -   #### 如果是在官网登陆且用复制输入，还是提示密码错误，请联系客服处理
 
+### 之前购买的ID提示密码错误
+#### 独享账号购买后与本站再无任何关系，且已明确告知购买后必须修改全部安全资料包括邮箱，为的就是避免被盗或其他原因导致的扯皮，所以如果你是想来扯皮的，我劝你善良；如果只是希望帮忙解决，可以参考以下方法
+    
+-   打开苹果官网登录：[https://appleid.apple.com/](https://appleid.apple.com/)
+    
+-   如果登录没有提示密码错误，那就说明你手机上登录的时候输错账号或者密码，自己去检查输入
+    
+-   如果提示密码错误，点忘记密码，然后按苹果官网的找回流程操作
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjQ4NDE4NywtMTMyMTUyMjAwNywxMD
+eyJoaXN0b3J5IjpbMjEyNjE5ODAxMSwtMTMyMTUyMjAwNywxMD
 g4ODczMDY2XX0=
 -->
