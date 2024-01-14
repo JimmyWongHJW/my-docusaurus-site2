@@ -24,14 +24,14 @@ sidebar_position: 2
   
 :::
 
- 1. ## 读懂卡密信息
+## 读懂卡密信息
  
 ![](https://file.duoduo.hk.cn/imgs/docs/%E8%AF%BB%E6%87%82%E5%8D%A1%E5%AF%86.webp)
 
 通常收到的卡密信息格式如图示，不同时期不同批次略有差异，但是大差不差。
 在您自己的卡密中，读出账号+密码+密保，即可进行登录和修改信息等操作。
 
- 2. ## 登录商店AppStore
+## 登录商店AppStore
  
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore.webp)
 
@@ -49,7 +49,7 @@ sidebar_position: 2
 成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：[【疑难杂症】](/tutorial-appleid/question.md)
 
 
- 3. ## 修改ID密码、密保等信息
+## 修改ID密码、密保等信息
  
  #### ⚠️ 邮箱/密码/密保尽可能在收到账号后都改一下。
  ### 登陆苹果官网
@@ -60,12 +60,15 @@ sidebar_position: 2
 -  登陆购买的账号（强调一遍，是登陆你购买的账号改资料）
 ![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_1.png)
 
- #### 关于密保问题
+### 关于密保问题
+各个账号密保问题答案并不相同，以购买收到的商品内容为准，收到的商品内容都没看完的不要跑来问密保答案是什么。
 
-#### 各个账号密保问题答案并不相同，以购买收到的商品内容为准，收到的商品内容都没看完的不要跑来问密保答案是什么。
+### 关于Apple ID安全提示
+
+#### 登陆出现Apple ID安全提示，也就是提示绑定手机升级双重验证，如不想绑定手机就点【其他选项】，再点【不升级】跳过，如下图所示；当然，如果你要绑定手机（推荐，可以用中国手机号码），就点【继续】按钮 先改密保 在绑定手机， 绑定手机默认两周才会删除密保
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjg5MDUzNywtNDAxMzY5NzEwLDE2Nj
-QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
-MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
-0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIzNjYwMjcsLTQwMTM2OTcxMCwxNj
+Y0MTUyNTkxLC0zMjEyNjE0Nyw0Nzc0MzA5MjgsLTIwODQ5Mjcz
+ODAsLTE1MTY2ODQxNjMsMTE5NDkyNTczMSwtMjExMzY4Mzc2MC
+wtMTE3NzkzNzYzMiwxMjExODkxMjExXX0=
 -->
