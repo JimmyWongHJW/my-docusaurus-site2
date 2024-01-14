@@ -78,10 +78,19 @@ sidebar_position: 2
 -   邮箱更改成功后，此苹果账号就是用新邮箱登录，跟原来的旧邮箱没有任何关系了
     
 #### 注意：更改邮箱后，不要着急关闭浏览器或跳到下个步骤，看一眼Apple ID这里显示的是不是你的新邮箱，如果不是，说明你压根没有更改成功，从新更改；如果没有问题是新邮箱了，从此这个苹果ID就是用这个邮箱登陆了，跟原来的邮箱没有任何关系并且登陆会提示无效了！
-![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_3.png)
+![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_3.webp)
+
+### 更改密码/密保资料 必改
+
+- 点击【密码】即可更改登录密码
+- 点击【账户安全】即可更改密保资料或绑定手机号码
+
+**注意：如果绑定手机号，那密保资料就自动删除了 先改密保 在绑定手机， 绑定手机默认两周才会删除密保**
+
+温馨提示：更改资料过程中会让你再次输入密码确认操作，此时输入的是苹果账号密码，苹果官网不会要求你输入邮箱密码，如果你改了密码，那输入的就是你更改后的苹果密码
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxOTI0NTIyLC00MDEzNjk3MTAsMTY2ND
-E1MjU5MSwtMzIxMjYxNDcsNDc3NDMwOTI4LC0yMDg0OTI3Mzgw
-LC0xNTE2Njg0MTYzLDExOTQ5MjU3MzEsLTIxMTM2ODM3NjAsLT
-ExNzc5Mzc2MzIsMTIxMTg5MTIxMV19
+eyJoaXN0b3J5IjpbMTM1NzEzMTI0OCwtNDAxMzY5NzEwLDE2Nj
+QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
+MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
+0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
 -->
