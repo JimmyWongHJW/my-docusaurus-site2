@@ -39,11 +39,11 @@ sidebar_position: 1
 
 
 ![输入图片说明](https://file.duoduo.hk.cn/imgs/docs/smileface.gif)
-<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" width="120" height="120">
+<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" width="120" height="120" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODAxMzUxOSwtMTU1MzQ3OTE4NiwtMT
-I3NzYxNDgxOSwxMjMzODQ3OTIwLC0xOTg2NzAyMzgsLTcyOTkx
-MTk2NSwtMjI0MDQ3NjExLC0yMDcwNDc4OTksLTE3MDY3MzMyMz
-EsMTQ0MTg4OTU5NiwtODIxNjg4ODUsLTMxNDAyMDc1NSwtMjk4
-NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbLTE3Mzk0NDkzNzgsLTE1NTM0NzkxODYsLT
+EyNzc2MTQ4MTksMTIzMzg0NzkyMCwtMTk4NjcwMjM4LC03Mjk5
+MTE5NjUsLTIyNDA0NzYxMSwtMjA3MDQ3ODk5LC0xNzA2NzMzMj
+MxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC0zMTQwMjA3NTUsLTI5
+ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
