@@ -41,9 +41,18 @@ sidebar_position: 3
 
 [🍎Apple ID 使用教程](/tutorial-appleid/tutorial.md)
 
-### 检查是不是点更新App提示密码错误，苹果App用哪个账号下载就必须哪个账号更新
+#### 检查是不是点更新App提示密码错误，苹果App用哪个账号下载就必须哪个账号更新
+
+### 刚购买的ID提示密码错误
+-   #### 仔细检查输入核对清楚，每天都有大量输入错误的人找过来，qia建议手动复制粘贴输入（账号和密码均用复制），不要用什么扫描软件识别
+    
+-   #### 或者先用可以复制的电脑/手机去苹果官网修改邮箱/密码等资料后再登录（更改邮箱后就是用新邮箱登陆了）
+    
+    #### [苹果账号更改安全资料教程](https://www.pgid.xyz/project-1/doc-2/ "苹果账号更改安全资料教程")
+    
+-   #### 如果是在官网登陆且用复制输入，还是提示密码错误，返回购买网站联系站长处理
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQyODkyMDAsLTEzMjE1MjIwMDcsMT
-A4ODg3MzA2Nl19
+eyJoaXN0b3J5IjpbMTY3ODM1ODg1NSwtMTMyMTUyMjAwNywxMD
+g4ODczMDY2XX0=
 -->
