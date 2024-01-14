@@ -37,11 +37,12 @@ sidebar_position: 3
 ### 首先检查是否登陆错地方或是用于更新
 
 > **如无单独标注，本店账号默认禁止登录iCloud，请勿在【设置】里面登录，只要不是AppStore里登录都是错误**
-
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore_2.webp)
+
+[🍎Apple ID 使用教程](/tutorial-appleid/tutorial.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDY5MDcyNywtMTMyMTUyMjAwNywxMD
+eyJoaXN0b3J5IjpbLTI2MzU1Njk1OSwtMTMyMTUyMjAwNywxMD
 g4ODczMDY2XX0=
 -->
