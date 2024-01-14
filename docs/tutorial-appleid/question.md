@@ -41,8 +41,9 @@ sidebar_position: 3
 
 [🍎Apple ID 使用教程](/tutorial-appleid/tutorial.md)
 
+### 检查是不是点更新App提示密码错误，苹果App用哪个账号下载就必须哪个账号更新
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzU1Njk1OSwtMTMyMTUyMjAwNywxMD
-g4ODczMDY2XX0=
+eyJoaXN0b3J5IjpbLTEzODQyODkyMDAsLTEzMjE1MjIwMDcsMT
+A4ODg3MzA2Nl19
 -->
