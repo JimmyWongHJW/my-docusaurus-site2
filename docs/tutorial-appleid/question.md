@@ -5,10 +5,10 @@ sidebar_position: 3
 
 # 🍎Apple ID 疑难杂症
 
-### 登录提示“无法登录”或“Could not sign in”或一直转圈
+## 登录提示“无法登录”或“Could not sign in”或一直转圈
 首先说下出现这个错误的原因：最近国内网络连接苹果海外服务器不稳定，导致登录的时候连接苹果海外服务器失败（跟你国内网络打开国外网站很慢甚至打不开一个道理），且刚刷机未插卡的iOS设备更容易出现此错误，不用怀疑是账号的问题。你可以去苹果官方网页登录试试，能登录就说明账号一切正常。
 
-#### 解决方式
+### 解决方式
 
 以下所有方式均可以尝试，直到成功登录
 
@@ -24,18 +24,23 @@ sidebar_position: 3
     
 -   现在是流量：连接Wifi，或者用其他手机共享热点（可以多尝试几个手机的热点和多换几个Wifi），每次换网络记得重启下
 
-### 登录后无法更新App或【你的账户已在App Store和iTunes禁用】
+## 登录后无法更新App或【你的账户已在App Store和iTunes禁用】
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore_2.webp)
 
 苹果下载的APP会关联ID，用哪个ID下载，就只能用哪个ID更新。
-#### 解决方式
+### 解决方式
 -   登录原来下载的ID更新
     
 -   删除旧版本，用新账号从新下载（如果是付费App，请确保新账号可以下载此付费App）
 
-### 
+## 密码错误
 
+### 首先检查是否登陆错地方或是用于更新
+
+> #### 本站账号默认禁止登陆iCloud，只要不是桌面AppStore里登录都是错误
+
+本站账号默认禁止登陆iCloud，只要不是桌面AppStore里登录都是错误
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ2MDA4MTcsLTEzMjE1MjIwMDcsMT
+eyJoaXN0b3J5IjpbLTE2MDk1NjY5NTgsLTEzMjE1MjIwMDcsMT
 A4ODg3MzA2Nl19
 -->
