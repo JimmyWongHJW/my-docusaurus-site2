@@ -39,10 +39,10 @@ sidebar_position: 1
 
 
 
-<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" alt="welcome" width="120" height="120">
+<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" width="120" height="120">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY3MDIzOCwtNzI5OTExOTY1LC0yMj
-QwNDc2MTEsLTIwNzA0Nzg5OSwtMTcwNjczMzIzMSwxNDQxODg5
-NTk2LC04MjE2ODg4NSwtMzE0MDIwNzU1LC0yOTg3NjE1NDMsND
-g3NDA3ODM1LDEzNjc0OTg2MzBdfQ==
+eyJoaXN0b3J5IjpbMTIzMzg0NzkyMCwtMTk4NjcwMjM4LC03Mj
+k5MTE5NjUsLTIyNDA0NzYxMSwtMjA3MDQ3ODk5LC0xNzA2NzMz
+MjMxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC0zMTQwMjA3NTUsLT
+I5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF19
 -->
