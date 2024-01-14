@@ -38,10 +38,9 @@ sidebar_position: 1
 
 
 
-
-<img src="https://file.duoduo.hk.cn/imgs/docs/smileface.gif" width="120" height="120">![输入图片说明](https://file.duoduo.hk.cn/imgs/docs/smileface.gif =120)
+![输入图片说明](https://file.duoduo.hk.cn/imgs/docs/smileface.gif =120x120)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkyOTczNzEsMTIzMzg0NzkyMCwtMT
+eyJoaXN0b3J5IjpbLTEyNzc2MTQ4MTksMTIzMzg0NzkyMCwtMT
 k4NjcwMjM4LC03Mjk5MTE5NjUsLTIyNDA0NzYxMSwtMjA3MDQ3
 ODk5LC0xNzA2NzMzMjMxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC
 0zMTQwMjA3NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5
