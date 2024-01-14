@@ -53,9 +53,15 @@ sidebar_position: 2
  
  #### ⚠️ 邮箱/密码/密保尽可能在收到账号后都改一下。
  ### 登陆苹果官网
+ 修改账号密码等信息需要通过苹果网页端完成
+ -   打开苹果官方账号管理页面（这是苹果官网，打不开的自行检查你的网络）
+    
+    ### [https://appleid.apple.com](https://appleid.apple.com/)
+    
+-   #### 登陆购买的账号（强调一遍，是登陆你购买的账号改资料）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwOTA2NjkyLC00MDEzNjk3MTAsMTY2ND
-E1MjU5MSwtMzIxMjYxNDcsNDc3NDMwOTI4LC0yMDg0OTI3Mzgw
-LC0xNTE2Njg0MTYzLDExOTQ5MjU3MzEsLTIxMTM2ODM3NjAsLT
-ExNzc5Mzc2MzIsMTIxMTg5MTIxMV19
+eyJoaXN0b3J5IjpbLTE0OTc4NDI5NzIsLTQwMTM2OTcxMCwxNj
+Y0MTUyNTkxLC0zMjEyNjE0Nyw0Nzc0MzA5MjgsLTIwODQ5Mjcz
+ODAsLTE1MTY2ODQxNjMsMTE5NDkyNTczMSwtMjExMzY4Mzc2MC
+wtMTE3NzkzNzYzMiwxMjExODkxMjExXX0=
 -->
