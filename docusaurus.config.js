@@ -52,6 +52,10 @@ module.exports = {
               label: '多多有货（商城）',
               href: 'https://duoduo.uno',
             },
+            {
+              label: '客服中心',
+              href: 'https://chat.ssrchat.com/service/fmxc2d',
+            },
           ],
         },
         {
@@ -60,15 +64,6 @@ module.exports = {
             {
               label: '苹果官方网站-AppleID登录管理',
               href: 'https://appleid.apple.com/',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
             },
           ],
         },
