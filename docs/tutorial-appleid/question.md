@@ -33,9 +33,9 @@ sidebar_position: 3
     
 -   删除旧版本，用新账号从新下载（如果是付费App，请确保新账号可以下载此付费App）
 
-
+### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTY0MjczMiwtMTMyMTUyMjAwNywxMD
-g4ODczMDY2XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ2MDA4MTcsLTEzMjE1MjIwMDcsMT
+A4ODg3MzA2Nl19
 -->
