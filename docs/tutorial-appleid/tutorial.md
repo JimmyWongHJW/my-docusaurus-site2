@@ -24,14 +24,14 @@ sidebar_position: 2
   
 :::
 
- 1. ### 读懂卡密信息
+ 1. ## 读懂卡密信息
  
 ![](https://file.duoduo.hk.cn/imgs/docs/%E8%AF%BB%E6%87%82%E5%8D%A1%E5%AF%86.webp)
 
 通常收到的卡密信息格式如图示，不同时期不同批次略有差异，但是大差不差。
 在您自己的卡密中，读出账号+密码+密保，即可进行登录和修改信息等操作。
 
- 2. ### 登录商店AppStore
+ 2. ## 登录商店AppStore
  
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore.webp)
 
@@ -49,9 +49,9 @@ sidebar_position: 2
 成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：[【疑难杂症】](/tutorial-appleid/question.md)
 
 
- 2. ### 修改ID密码、密保等信息
+ 3. ## 修改ID密码、密保等信息
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzUxNjE2NSwtNDAxMzY5NzEwLDE2Nj
+eyJoaXN0b3J5IjpbMTQyMDk2Njc1NSwtNDAxMzY5NzEwLDE2Nj
 QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
 MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
 0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
