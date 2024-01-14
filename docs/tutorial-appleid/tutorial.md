@@ -57,11 +57,14 @@ sidebar_position: 2
  
  - 打开苹果官方账号管理页面（这是苹果官网，打不开的自行检查你的网络）
    [https://appleid.apple.com](https://appleid.apple.com/)
-    
 -  登陆购买的账号（强调一遍，是登陆你购买的账号改资料）
+![](https://file.duoduo.hk.cn/imgs/docs/changeinfo_1.png)
 
+ #### 关于密保问题
+
+#### 各个账号密保问题答案并不相同，以购买收到的商品内容为准，收到的商品内容都没看完的不要跑来问密保答案是什么。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjQ0MTE5OSwtNDAxMzY5NzEwLDE2Nj
+eyJoaXN0b3J5IjpbLTQyNjg5MDUzNywtNDAxMzY5NzEwLDE2Nj
 QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
 MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
 0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
