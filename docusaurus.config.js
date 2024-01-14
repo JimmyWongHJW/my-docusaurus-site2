@@ -28,9 +28,9 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: '帮助中心💡',
+          label: '💡帮助中心',
         },
-        {to: '/blog', label: '文章Blog', position: 'left'},
+        {to: '/blog', label: '消息发布', position: 'left'},
         {
           href: 'https://duoduo.uno',
           label: '🛒多多有货',
@@ -55,19 +55,11 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: '外站链接',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '苹果官方网站-AppleID登录管理',
+              href: 'https://appleid.apple.com/',
             },
           ],
         },
@@ -77,10 +69,6 @@ module.exports = {
             {
               label: 'Blog',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
