@@ -26,8 +26,16 @@ sidebar_position: 3
 
 ### 登录后无法更新App或【你的账户已在App Store和iTunes禁用】
 ![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore_2.webp)
+
 苹果下载的APP会关联ID，用哪个ID下载，就只能用哪个ID更新。
+#### 解决方式
+-   登录原来下载的ID更新
+    
+-   删除旧版本，用新账号从新下载（如果是付费App，请确保新账号可以下载此付费App）
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTU4Mzg4MCwtMTMyMTUyMjAwNywxMD
+eyJoaXN0b3J5IjpbMjEwMTY0MjczMiwtMTMyMTUyMjAwNywxMD
 g4ODczMDY2XX0=
 -->
