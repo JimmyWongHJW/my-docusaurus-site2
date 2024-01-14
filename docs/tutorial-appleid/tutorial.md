@@ -47,9 +47,12 @@ sidebar_position: 2
 #### 关于下载App可能出现的问题
 
 成功登陆AppStore后，就跟你平时下载App一样，直接在AppStore里搜索你需要的App下载即可，如果遇到问题，请参考教程解决：[【疑难杂症】](/tutorial-appleid/question.md)
+
+
+ 2. ### 修改ID密码、密保等信息
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTM2OTcxMCwxNjY0MTUyNTkxLC0zMj
-EyNjE0Nyw0Nzc0MzA5MjgsLTIwODQ5MjczODAsLTE1MTY2ODQx
-NjMsMTE5NDkyNTczMSwtMjExMzY4Mzc2MCwtMTE3NzkzNzYzMi
-wxMjExODkxMjExXX0=
+eyJoaXN0b3J5IjpbLTQ2NzUxNjE2NSwtNDAxMzY5NzEwLDE2Nj
+QxNTI1OTEsLTMyMTI2MTQ3LDQ3NzQzMDkyOCwtMjA4NDkyNzM4
+MCwtMTUxNjY4NDE2MywxMTk0OTI1NzMxLC0yMTEzNjgzNzYwLC
+0xMTc3OTM3NjMyLDEyMTE4OTEyMTFdfQ==
 -->
