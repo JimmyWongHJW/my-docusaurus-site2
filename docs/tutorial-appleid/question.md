@@ -25,7 +25,9 @@ sidebar_position: 3
 -   现在是流量：连接Wifi，或者用其他手机共享热点（可以多尝试几个手机的热点和多换几个Wifi），每次换网络记得重启下
 
 ### 登录后无法更新App或【你的账户已在App Store和iTunes禁用】
-
+![](https://file.duoduo.hk.cn/imgs/docs/guide_appstore_2.webp)
+苹果下载的APP会关联ID，用哪个ID下载，就只能用哪个ID更新。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE1MjIwMDcsMTA4ODg3MzA2Nl19
+eyJoaXN0b3J5IjpbMTQ2MTU4Mzg4MCwtMTMyMTUyMjAwNywxMD
+g4ODczMDY2XX0=
 -->
